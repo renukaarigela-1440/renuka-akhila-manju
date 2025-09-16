@@ -4,11 +4,11 @@
 </head>
 <body>
 <h1>pick your favourite color</h1>
-<dl>
+<ol>
 <li>pink</li>
 <li>black</li>
 <li>blue</li>
-</dl>
+</ol>
 </body>
 </html>
 
